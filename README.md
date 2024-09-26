@@ -6,7 +6,7 @@ This project focuses on **sentiment analysis** of movie reviews from the IMDB da
 ## Dataset
 The dataset used for this project contains **50,000 movie reviews** from the IMDB website, available on Kaggle: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
 
-![The Dataset]([image_url](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/Dataset.png))
+![The Dataset](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/Dataset.png)
 
 
 ### Data Preprocessing
