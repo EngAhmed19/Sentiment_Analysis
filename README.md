@@ -46,4 +46,4 @@ The sentiment classification model is built using an **LSTM (Long Short-Term Mem
 ## Gradio Interface
 To make the model more interactive, a **Gradio GUI** was developed. This allows users to input a movie review and receive the predicted sentiment in real time.
 
-![The Archeticher](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/Gradio_Interface.png)
+![Gradio Interface](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/Gradio%20Interface.png)
