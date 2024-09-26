@@ -18,7 +18,7 @@ To prepare the dataset, the following preprocessing steps were applied:
 - Applied **lemmatization** to reduce words to their root forms.
 - Tokenized the reviews and applied **padding sequences** to ensure uniform input length.
 
-![The Dataset after cleaning](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/Dataset-after-cleaning.png)
+![The Dataset after cleaning](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/Dataset%20after%20cleaning.png)
 
 The data was split into:
 - **80% training data**
