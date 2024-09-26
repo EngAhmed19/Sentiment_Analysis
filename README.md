@@ -5,7 +5,8 @@ This project focuses on **sentiment analysis** of movie reviews from the IMDB da
 
 ## Dataset
 The dataset used for this project contains **50,000 movie reviews** from the IMDB website, available on Kaggle: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
-![The Dataset](image_url)
+
+![The Dataset]([image_url](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/Dataset.png))
 
 
 ### Data Preprocessing
@@ -17,6 +18,8 @@ To prepare the dataset, the following preprocessing steps were applied:
 - Applied **lemmatization** to reduce words to their root forms.
 - Tokenized the reviews and applied **padding sequences** to ensure uniform input length.
 
+![The Dataset after cleaning](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/Dataset-after-cleaning.png)
+
 The data was split into:
 - **80% training data**
 - **20% testing data**
@@ -27,6 +30,8 @@ The sentiment classification model is built using an **LSTM (Long Short-Term Mem
 - **2 LSTM layers**: Used to capture the sequence information from the reviews.
 - **Dropout layers**: Two dropout layers were added after each LSTM layer for **regularization** to prevent overfitting.
 - **Softmax layer**: Outputs the probability distribution for positive and negative sentiment.
+
+![The Archeticher](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/The-model-Archecher.png)
 
 ### Training
 - **Epochs**: 10
@@ -40,3 +45,5 @@ The sentiment classification model is built using an **LSTM (Long Short-Term Mem
 
 ## Gradio Interface
 To make the model more interactive, a **Gradio GUI** was developed. This allows users to input a movie review and receive the predicted sentiment in real time.
+
+![The Archeticher](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/Gradio_Interface.png)
