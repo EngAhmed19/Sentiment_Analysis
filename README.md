@@ -31,7 +31,7 @@ The sentiment classification model is built using an **LSTM (Long Short-Term Mem
 - **Dropout layers**: Two dropout layers were added after each LSTM layer for **regularization** to prevent overfitting.
 - **Softmax layer**: Outputs the probability distribution for positive and negative sentiment.
 
-![The Archeticher](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/The-model-Archecher.png)
+![The Archeticher](https://github.com/EngAhmed19/Sentiment_Analysis/blob/main/sentiment%20analysis/Images/The%20model%20Archecher.png)
 
 ### Training
 - **Epochs**: 10
